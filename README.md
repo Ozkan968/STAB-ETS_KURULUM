@@ -1,6 +1,6 @@
 # STAB-ETS2-SPACEDESK KURULUM
 
-📥 Dosya Erişimi
+ # 📥 Dosya Erişimi
 
 Gerekli kurulum dosyalarına ulaşmak için Discord sunucumuza katılabilirsiniz:
 👉 https://discord.gg/v6SaD3NDc
