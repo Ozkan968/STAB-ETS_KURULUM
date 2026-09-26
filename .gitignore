@@ -1,0 +1,7 @@
+# GitSyncStudio otomatik kuralları
+.gitupdater_backups/
+__pycache__/
+*.pyc
+*.bak
+Thumbs.db
+.DS_Store
